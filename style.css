@@ -22,7 +22,11 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   transition: all 0.3s ease;
-  
+  background-image:url(https://img.lovepik.com/background/20211022/large/lovepik-blue-technology-background-image_401896211.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
 }
 
 header {
@@ -84,7 +88,7 @@ h1{
 
 a{
     width: 50px;
-    background-color: aqua;
+    background-color: rgb(184, 255, 228);
     padding: 20px;
     margin: 5px;
     font-weight: bold;
